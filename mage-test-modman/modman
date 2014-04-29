@@ -1,0 +1,3 @@
+../vendor/magetest/magento-phpunit-extension/tests tests/
+../vendor/magetest/magento-phpunit-extension/bootstrap.php bootstrap.php
+../vendor/magetest/magento-phpunit-extension/phpunit.xml.dist phpunit.xml.dist

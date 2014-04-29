@@ -1,0 +1,16 @@
+*.bak
+._*
+.DS_Store
+Thumbs.db
+.idea
+.project
+.buildpath
+.settings
+build/*
+tags
+vendor
+composer.lock
+composer.phar
+public
+bin
+tmp
