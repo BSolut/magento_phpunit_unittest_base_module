@@ -1,10 +1,9 @@
-Magento Module Example Stub
+Magento Module PHPUnit Unittest Example Stub
 =========
 
-This magento module provides a stub for a magento module with *ready to go  unit testing* capabilities by combining multiple exising open source project projects.
+This magento module provides a stub for a magento module with *ready to go phpunit unittest* capabilities by combining multiple exising open source project projects.
 
-[![Build Status](https://travis-ci.org/BSolut/magento_module_base.svg?branch=master)](https://travis-ci.org/BSolut/magento_module_base)
-
+[![Build Status](https://travis-ci.org/BSolut/magento_phpunit_unittest_base_module.svg?branch=master)](https://travis-ci.org/BSolut/magento_phpunit_unittest_base_module)
 ## Requirements
 
 * PHP 5.3+
