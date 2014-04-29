@@ -1,5 +1,5 @@
 DBNAME := magento
-DBUSER := testing
+DBUSER := root
 DBHOST := localhost
 WEBHOST := magento.local
 BASE_DIR := $(shell pwd)
