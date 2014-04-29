@@ -69,7 +69,7 @@ magento-testing: ./public/.modman/magento-phpunit-extension ./public/.modman/mag
 
 module-install: magento-install magento-testing ./public/.modman/$(BASE_NAME)
 
-tests: module-install
+tests: composer-install module-install
 	@echo "Testing Module "$(BASE_NAME)
 	@cd public && ../bin/phpunit
 
