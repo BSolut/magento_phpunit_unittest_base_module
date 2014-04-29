@@ -27,6 +27,7 @@
         "bin-dir": "bin",
         "preferred-install": "dist",
         "github-protocols:": ["https", "ssh", "git"],
+        "github-oauth": {"github.com": "fd2e7c0281a4836666461c167b2626be0838f9ec"},
         "cache-files-maxsize": "2048MiB"
     },
     "extra": {
