@@ -1,5 +1,5 @@
 {
-    "name": "bsolut/magento_module_base,
+    "name": "bsolut/magento_module_base",
     "type": "magento-module",
     "license": "GPL-2.0+",
     "description":"Magento extension STUB",
