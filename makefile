@@ -39,7 +39,8 @@ magento-db:
 public/.installed:
 	make magento-db
 	make clean-magento
-	cp ./n98-magerun.yaml ~/.n98-magerun.yaml
+	mkdir -p vendor/bsolut/config
+	cp ./n98-magerun.yaml vendor/bsolut/config/n98-magerun.yaml
 	./bin/n98-magerun install \
 	  --dbHost="$(DBHOST)" --dbUser="$(DBUSER)" --dbPass="" --dbName="$(DBNAME)" \
 	  --installSampleData="yes" \

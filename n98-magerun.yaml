@@ -8,10 +8,6 @@ commands:
         admin_lastname: Test
         admin_password: MageTest1234
         admin_email: magetest@bsolut.com
-
-
-
-  N98\Magento\Command\Installer\InstallCommand:
     magento-packages:
       - name: bs-magento-ce-1.7.0.2
         version: 1.7.0.2
